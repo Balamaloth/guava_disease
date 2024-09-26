@@ -1,0 +1,75 @@
+body{
+background-image:url("C:/Users/Bablu/Downloads/186441067_164ca665-b3af-401e-8434-96a0b40608c9.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:justify;
+margin:0%;
+padding:0%;
+color:white;
+font-family:arial,sans-serif;
+}
+
+header{
+background-color:rgb(42,62,120);
+margin:0px 150px;
+text-align:center;
+}
+
+nav{
+margin:10px 0;
+text-align:center;
+}
+nav a{
+color:white;
+text-decoration:none;
+padding:10px 15px;
+}
+.content{
+width:50%;
+margin:25px auto;
+padding:15px;
+border:1px solid black;
+display:flex;
+background-color:skyblue;
+}
+.content h2{
+margin:20px;
+color:rgb(42,63,120);
+}
+.content p{
+font-style:italic;
+color:rgb(52,63,170);
+}
+
+footer{
+bottom:0;
+position:fixed;
+width:100%;
+color:rgb(0,0,0);
+background-color:#676767;
+text-align:center;
+}
+
+.form-group{
+margin:20px auto;
+}
+.form-group label{
+display:block;
+margin:15px;
+color:#000;
+font-weight:bold;
+}
+.form-group input{
+border:3px solid black;
+border-radius:10px;
+width:100%;
+padding:10px;
+}
+
+button{
+color:white;
+background-color:rgb(52,63,170);
+padding:9px;
+font-weight:bold;
+margin-left:100px;
+}
