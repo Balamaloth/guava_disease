@@ -2,7 +2,7 @@
 
 <p align="center">
   🌱 A Deep Learning-based project for identifying and classifying diseases in guava leaves and fruits using Convolutional Neural Networks (CNN).  
-  Developed by <b>Bala Venkat</b> — empowering smart agriculture through AI 🤖🌿
+  Developed by <b>Bala </b> — empowering smart agriculture through AI 🤖🌿
 </p>
 
 ---
