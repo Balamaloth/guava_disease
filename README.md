@@ -46,3 +46,4 @@ The model assists farmers and researchers in early disease detection, improving 
 
 ---
 
+
